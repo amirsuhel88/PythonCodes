@@ -13,3 +13,6 @@ print(file2[:3])
 file3 = 'This is me suhel'
 another = file3[:]
 print(another)
+
+name = 'suhel'
+print(name[1: -1])
